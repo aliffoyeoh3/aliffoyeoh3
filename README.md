@@ -1,4 +1,4 @@
-### Hai di luar sana! 👋 Saya Aliff Amsyar.
+### Hai! 👋 Saya Aliff Amsyar.
 
 Selamat datang ke profil GitHub saya! Saya sedang dalam fasa pembelajaran dan penerokaan dunia pengaturcaraan dan pembangunan perisian.
 
